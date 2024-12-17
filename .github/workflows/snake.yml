@@ -1,13 +1,13 @@
 name: Generate Snake Animation
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: read  # Grants read access to repository content
+  actions: read   # Grants read access to actions
+  id-token: write # Grants write access to the token (needed for authentication)
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
+    - cron: "0 0 * * *" # Runs at midnight daily
   workflow_dispatch: # Allows manual execution
 
 jobs:
