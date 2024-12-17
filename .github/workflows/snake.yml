@@ -2,10 +2,12 @@ name: Generate Snake Animation
 
 permissions:
   contents: read
+  pages: write
+  id-token: write
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs at midnight daily
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch: # Allows manual execution
 
 jobs:
