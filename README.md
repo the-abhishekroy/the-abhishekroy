@@ -8,10 +8,6 @@
   <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/images/graph-light.svg" width="100%" height="4px" />
 </p>
 
-<!-- Main Introduction Card -->
-<h1 align="center" style="color:#89DDFF;">👋 Hey, I'm <span style="color:#FF61A6;">Abhishek Roy</span></h1>
-<h3 align="center" style="font-weight:400;color:#c3e88d;">🚀 Full Stack Developer | AI & Data Science Explorer</h3>
-
 ---
 
 ## 🌟 <span style="color:#82AAFF;">About Me</span>
