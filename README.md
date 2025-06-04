@@ -1,53 +1,55 @@
-<h1 align="center">👋 Hey there, I'm Abhishek Roy!</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer & Data Science Enthusiast</h3>
+<!-- Animated Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=89DDFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abhishek+Roy!;Full+Stack+%26+AI+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<!-- Gradient Divider (replace with your own SVG if desired) -->
+<p align="center">
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/images/graph-light.svg" width="100%" height="4px" />
+</p>
+
+<!-- Main Introduction Card -->
+<h1 align="center" style="color:#89DDFF;">👋 Hey, I'm <span style="color:#FF61A6;">Abhishek Roy</span></h1>
+<h3 align="center" style="font-weight:400;color:#c3e88d;">🚀 Full Stack Developer | AI & Data Science Explorer</h3>
 
 ---
 
-### 🌟 About Me
+## 🌟 <span style="color:#82AAFF;">About Me</span>
 
-- 🎓 B.Tech CSE Student at SMIT, Class of 2027  
-- 🧠 Passionate about **Data Science**, **AI**, and **Full-Stack Development**  
-- 💻 Building projects using MERN stack, Python, ML, and Flutter  
-- 🧪 Curious about algorithms, research, and making tech useful for everyone  
-- 📫 Reach me at: `the.abhishekkroy@gmail.com`
+- 🎓 <b>B.Tech CSE Student</b> at SMIT, Class of 2027  
+- 🧠 <b>Passionate about:</b> Data Science, AI, Full-Stack Development  
+- 💻 <b>Tech I use:</b> MERN stack, Python, ML, Data Analytics 
+- 🧪 <b>Interests:</b> Algorithms, Research, Tech for All  
+- 📫 <b>Contact:</b> <a href="mailto:the.abhishekkroy@gmail.com">the.abhishekkroy@gmail.com</a>
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ <span style="color:#C792EA;">Tech Stack</span>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,dart,react,nodejs,express,mongodb,mysql,php,html,css,figma,linux" height="45" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
+## 📊 <span style="color:#FFCB6B;">GitHub Stats & Visualizations</span>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-abhishekroy&theme=radical&hide_border=false&show_icons=true" width="47%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=the-abhishekroy&theme=radical&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-abhishekroy&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=the-abhishekroy&theme=tokyonight&hide_border=true" width="45%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-abhishekroy&layout=compact&theme=radical&hide_border=false" width="47%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=the-abhishekroy&limit=5&theme=radical&combine_all_yearly_contributions=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-abhishekroy&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=the-abhishekroy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-abhishekroy&style=for-the-badge&color=89DDFF&label=Profile+Views" alt="profile views"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-abhishekroy&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 <span style="color:#FF61A6;">Let's Connect</span>
 
 <p align="center">
   <a href="mailto:the.abhishekkroy@gmail.com">
@@ -64,8 +66,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  💡 _"Consistency beats intensity."_ — Stay curious, keep building!
-</p>
