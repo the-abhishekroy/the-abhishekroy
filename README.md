@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=89DDFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abhishek+Roy!;Full+Stack+%26+AI+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-abhishekroy&style=for-the-badge&color=89DDFF&label=Profile+Views" alt="profile views"/>
+</p>
 
 ---
 
@@ -33,9 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-abhishekroy&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
   <img src="https://github-contributor-stats.vercel.app/api?username=the-abhishekroy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-abhishekroy&style=for-the-badge&color=89DDFF&label=Profile+Views" alt="profile views"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-abhishekroy&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
