@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=89DDFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abhishek+Roy!;Full+Stack+%26+AI+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Gradient Divider (replace with your own SVG if desired) -->
-<p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/images/graph-light.svg" width="100%" height="4px" />
-</p>
+
 
 ---
 
