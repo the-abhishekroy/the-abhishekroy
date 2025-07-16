@@ -44,12 +44,7 @@
 <div align="center">
   <!-- Languages and Contributions Row -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-abhishekroy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-abhishekroy&theme=tokyonight" width="48%" />
-</div>
-
-<div align="center">
-  <!-- Summary Cards Row -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-abhishekroy&theme=tokyonight" width="48%" />
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-abhishekroy&theme=tokyonight" width="48%" />
 </div>
 
