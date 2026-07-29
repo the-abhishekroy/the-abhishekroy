@@ -31,8 +31,9 @@
 ## 🛠️ <span style="color:#C792EA;">Tech Stack</span>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,bash,react,nextjs,tailwind,html,express,nodejs,graphql,docker,kubernetes,aws,azure,githubactions,nginx,vercel,postgres,mongodb,mysql,redis,firebase,git,figma&perline=9" height="42" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,bash,react,nextjs,tailwind,html,express,nodejs,graphql,docker,kubernetes,aws,azure,githubactions,nginx,vercel,postgres,mongodb,mysql,redis,firebase,git,figma&perline=7" height="58" />
 </div>
+
 
 ---
 
