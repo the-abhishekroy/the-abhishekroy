@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89DDFF,100:C792EA&height=200&section=header&text=Abhishek%20Roy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Cloud-Native%20Engineer&descAlignY=55&descSize=18" width="100%" />
 </p>
 
+
 <!-- Animated Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=89DDFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abhishek+Roy!;Full-Stack+%26+Cloud-Native+Engineer;Building+Production+Systems+at+Scale;Always+Learning+%26+Growing!" alt="Typing SVG" />
