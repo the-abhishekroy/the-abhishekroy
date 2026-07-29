@@ -1,7 +1,8 @@
 <!-- Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89DDFF,100:C792EA&height=200&section=header&text=Abhishek%20Roy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Cloud-Native%20Engineer&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89DDFF,100:C792EA&height=200&section=header&text=Abhishek%20Roy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Cloud-Native%20Engineer&descAlignY=55&descSize=18" width="100%" />
 </p>
+
 
 
 <!-- Animated Typing SVG -->
